@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\1.0.0",
+    "\\1.0.0\\my-app",
+    "\\1.0.0\\TheFirstStep",
+    "\\1.0.0\\TheFirstStep\\Controllers",
+    "\\1.0.0\\TheFirstStep\\Models"
+  ],
+  "SelectedNode": "\\1.0.0\\TheFirstStep\\Controllers\\OrderController.cs",
+  "PreviewInSolutionExplorer": false
+}

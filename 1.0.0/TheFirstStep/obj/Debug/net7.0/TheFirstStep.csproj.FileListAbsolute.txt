@@ -1,0 +1,213 @@
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\appsettings.json
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\TheFirstStep.exe
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\TheFirstStep.deps.json
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\TheFirstStep.runtimeconfig.json
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\TheFirstStep.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\TheFirstStep.pdb
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.csproj.AssemblyReference.cache
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.AssemblyInfoInputs.cache
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.AssemblyInfo.cs
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.csproj.CoreCompileInputs.cache
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\staticwebassets\msbuild.TheFirstStep.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\staticwebassets\msbuild.build.TheFirstStep.props
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TheFirstStep.props
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TheFirstStep.props
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\scopedcss\bundle\TheFirstStep.styles.css
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.csproj.CopyComplete
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\refint\TheFirstStep.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.pdb
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.genruntimeconfig.cache
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\obj\Debug\net7.0\ref\TheFirstStep.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KanXi\OneDrive - The University of Auckland\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\appsettings.Development.json
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\appsettings.json
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\TheFirstStep.exe
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\TheFirstStep.deps.json
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\TheFirstStep.runtimeconfig.json
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\TheFirstStep.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\TheFirstStep.pdb
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Azure.Core.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Azure.Identity.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\First\TheFirstStep\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.csproj.AssemblyReference.cache
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.AssemblyInfoInputs.cache
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.AssemblyInfo.cs
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.csproj.CoreCompileInputs.cache
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\staticwebassets\msbuild.TheFirstStep.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\staticwebassets\msbuild.build.TheFirstStep.props
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TheFirstStep.props
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TheFirstStep.props
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\staticwebassets.build.json
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\staticwebassets.development.json
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\scopedcss\bundle\TheFirstStep.styles.css
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.csproj.CopyComplete
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.dll
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\refint\TheFirstStep.dll
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.pdb
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\TheFirstStep.genruntimeconfig.cache
+C:\Projects\First\TheFirstStep\obj\Debug\net7.0\ref\TheFirstStep.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\appsettings.Development.json
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\appsettings.json
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\TheFirstStep.exe
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\TheFirstStep.deps.json
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\TheFirstStep.runtimeconfig.json
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\TheFirstStep.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\TheFirstStep.pdb
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Azure.Core.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Azure.Identity.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\TheFirstStep.csproj.AssemblyReference.cache
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\TheFirstStep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\TheFirstStep.AssemblyInfoInputs.cache
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\TheFirstStep.AssemblyInfo.cs
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\TheFirstStep.csproj.CoreCompileInputs.cache
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\TheFirstStep.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\TheFirstStep.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\staticwebassets\msbuild.TheFirstStep.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\staticwebassets\msbuild.build.TheFirstStep.props
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TheFirstStep.props
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TheFirstStep.props
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\staticwebassets.build.json
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\staticwebassets.development.json
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\scopedcss\bundle\TheFirstStep.styles.css
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\TheFirstStep.csproj.CopyComplete
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\TheFirstStep.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\refint\TheFirstStep.dll
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\TheFirstStep.pdb
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\TheFirstStep.genruntimeconfig.cache
+C:\Projects\MSA_2023\1.0.0\TheFirstStep\obj\Debug\net7.0\ref\TheFirstStep.dll

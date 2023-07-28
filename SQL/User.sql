@@ -1,0 +1,3 @@
+CREATE LOGIN MSA_project_users WITH PASSWORD = '76HNt@TWX6KP';
+
+CREATE USER CommonUser FOR LOGIN MSA_project_users;
