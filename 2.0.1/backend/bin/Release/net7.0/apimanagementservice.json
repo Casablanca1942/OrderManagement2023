@@ -1,0 +1,65 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "api_backend-Kan_name": {
+      "type": "string"
+    },
+    "api_backend-Kan_urlSuffix3": {
+      "type": "string"
+    },
+    "api_backend-Kan_serviceName": {
+      "type": "string"
+    },
+    "apim_backendapi-MSA-2023_name": {
+      "type": "string"
+    },
+    "apim_backendapi-MSA-2023_LocationId": {
+      "type": "string"
+    },
+    "apim_backendapi-MSA-2023_email": {
+      "type": "string"
+    },
+    "apim_backendapi-MSA-2023_orgName": {
+      "type": "string"
+    },
+    "apim_backendapi-MSA-2023_tier": {
+      "type": "string"
+    },
+    "apim_backendapi-MSA-2023_capacity": {
+      "type": "int"
+    }
+  },
+  "resources": [
+    {
+      "apiVersion": "2021-08-01",
+      "type": "Microsoft.ApiManagement/service/apis",
+      "properties": {
+        "protocols": [
+          "https"
+        ],
+        "displayName": "[parameters('api_backend-Kan_name')]",
+        "path": "[parameters('api_backend-Kan_urlSuffix3')]"
+      },
+      "name": "[concat(parameters('api_backend-Kan_serviceName'),'/', parameters('api_backend-Kan_name'))]",
+      "dependsOn": [
+        "[resourceId('Microsoft.ApiManagement/service', parameters('apim_backendapi-MSA-2023_name'))]",
+        "[resourceId('Microsoft.ApiManagement/service', parameters('apim_backendapi-MSA-2023_name'))]"
+      ]
+    },
+    {
+      "apiVersion": "2021-08-01",
+      "type": "Microsoft.ApiManagement/service",
+      "properties": {
+        "publisherEmail": "[parameters('apim_backendapi-MSA-2023_email')]",
+        "publisherName": "[parameters('apim_backendapi-MSA-2023_orgName')]"
+      },
+      "name": "[parameters('apim_backendapi-MSA-2023_name')]",
+      "location": "[parameters('apim_backendapi-MSA-2023_LocationId')]",
+      "sku": {
+        "name": "[parameters('apim_backendapi-MSA-2023_tier')]",
+        "capacity": "[parameters('apim_backendapi-MSA-2023_capacity')]"
+      }
+    }
+  ]
+}

@@ -71,3 +71,4 @@ D:\MSA_2023\2.0.1\backend\obj\Release\net7.0\refint\backend.dll
 D:\MSA_2023\2.0.1\backend\obj\Release\net7.0\backend.pdb
 D:\MSA_2023\2.0.1\backend\obj\Release\net7.0\backend.genruntimeconfig.cache
 D:\MSA_2023\2.0.1\backend\obj\Release\net7.0\ref\backend.dll
+D:\MSA_2023\2.0.1\backend\bin\Release\net7.0\apimanagementservice.json

@@ -1,5 +1,6 @@
 D:\MSA_2023\2.0.1\backend\obj\Release\net7.0\PubTmp\Out\backend.exe
 D:\MSA_2023\2.0.1\backend\obj\Release\net7.0\PubTmp\Out\apimanagementservice.env.parameters.json
+D:\MSA_2023\2.0.1\backend\obj\Release\net7.0\PubTmp\Out\apimanagementservice.json
 D:\MSA_2023\2.0.1\backend\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
 D:\MSA_2023\2.0.1\backend\obj\Release\net7.0\PubTmp\Out\appsettings.json
 D:\MSA_2023\2.0.1\backend\obj\Release\net7.0\PubTmp\Out\backend.dll

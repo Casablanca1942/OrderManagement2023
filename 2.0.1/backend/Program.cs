@@ -13,12 +13,6 @@ builder.Services.AddSwaggerGen();
 // Register IOrderService and OrderService.
 builder.Services.AddScoped<IOrderService, OrderService>();
 
-// Enable CORS
-builder.Services.AddCors(c =>
-{
-    c.AddPolicy("AllowOrigin", options => options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
-});
-
 //JSON Serializer
 builder.Services.AddControllersWithViews().AddNewtonsoftJson(options =>
 options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore)
@@ -42,8 +36,5 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
-
-// Enable CORS
-app.UseCors(options => options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
 
 app.Run();

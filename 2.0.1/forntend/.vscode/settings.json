@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/de99d408-f3e5-4d86-b434-717fd9e5fcb7/resourceGroups/MSA_2023/providers/Microsoft.Web/sites/MSA2023201frontend",
+  "appService.deploySubpath": "."
+}
