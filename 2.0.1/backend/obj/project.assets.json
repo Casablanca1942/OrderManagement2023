@@ -2754,11 +2754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MSA_2023\\2.0.0\\backend\\backend.csproj",
+      "projectUniqueName": "D:\\MSA_2023\\2.0.1\\backend\\backend.csproj",
       "projectName": "backend",
-      "projectPath": "D:\\MSA_2023\\2.0.0\\backend\\backend.csproj",
+      "projectPath": "D:\\MSA_2023\\2.0.1\\backend\\backend.csproj",
       "packagesPath": "C:\\Users\\KanXi\\.nuget\\packages\\",
-      "outputPath": "D:\\MSA_2023\\2.0.0\\backend\\obj\\",
+      "outputPath": "D:\\MSA_2023\\2.0.1\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KanXi\\AppData\\Roaming\\NuGet\\NuGet.Config",

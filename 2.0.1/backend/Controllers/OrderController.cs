@@ -6,7 +6,7 @@ using System.Collections.Generic;
 namespace backend.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("/")]
     public class OrderController : ControllerBase
     {
         private readonly IOrderService _orderService;
