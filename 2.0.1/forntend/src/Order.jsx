@@ -4,7 +4,6 @@ import './Order.css';
 
 const Order = () => {
   const [orders, setOrders] = useState([]);
-  const [editOrder, setEditOrder] = useState(null);
   const [orderForm, setOrderForm] = useState({
     CustomerFirstName: '',
     CustomerLastName: '',
@@ -20,42 +19,18 @@ const Order = () => {
   }, []); 
 
   const submitOrder = () => {
-    let url = variables.API_URL;
-    let method = 'POST';
-    let body = {
-      "customerFirstName": orderForm.CustomerFirstName,
-      "customerLastName": orderForm.CustomerLastName,
-      "date": orderForm.Date,
-      "orderStatus": orderForm.OrderStatus,
-    };
-
-    if (editOrder) {
-
-      method = 'PUT';
-      body = { ...body, "orderID": editOrder.OrderID };
-    }
-  
     const requestOptions = {
-      method: method,
-      headers: { 
-        'Content-Type': 'application/json-patch+json',
-        'Ocp-Apim-Subscription-Key': '6f0df5c22f2443c4835d4d832d6e7336'
-      },
-      body: JSON.stringify(body),
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(orderForm)
     };
-  
-    fetch(url, requestOptions)
-    .then(response => response.json())
-    .then(data => setOrders(prevOrders => {
-      if(editOrder) {
-        return prevOrders.map(order => order.OrderID === editOrder.OrderID ? data : order);
-      } else {
-        return [...prevOrders, data];
-      }
-    }))
-    .catch(error => console.error(error));
 
-    setEditOrder(null);
+    fetch(variables.API_URL, requestOptions)
+      .then(response => response.json())
+      .then(data => setOrders(prevOrders => {
+        return [...prevOrders, data];
+      }))
+      .catch(error => console.error(error));
 
     setOrderForm({
       CustomerFirstName: '',
@@ -65,18 +40,25 @@ const Order = () => {
     });
   }
 
-  useEffect(() => {
-    if(editOrder) {
-      setOrderForm(editOrder);
-    } else {
-      setOrderForm({
-        CustomerFirstName: '',
-        CustomerLastName: '',
-        Date: '',
-        OrderStatus: ''
-      });
-    }
-  }, [editOrder]);
+  const updateStatus = (orderId, newStatus) => {
+    let url = `${variables.API_URL}`;
+    let body = { "orderID": orderId,"orderStatus": newStatus};
+
+    const requestOptions = {
+      method: 'PUT',
+      headers: { 
+        'Content-Type': 'application/json-patch+json'
+      },
+      body: JSON.stringify(body),
+    };
+  
+    fetch(url, requestOptions)
+    .then(response => response.json())
+    .then(data => setOrders(prevOrders => {
+      return prevOrders.map(order => order.OrderID === orderId ? data : order);
+    }))
+    .catch(error => console.error(error));
+  }
 
   const deleteOrder = (orderId) => {
     fetch(`${variables.API_URL}${orderId}`, { method: 'DELETE' })
@@ -112,10 +94,8 @@ const Order = () => {
           <option value="SHIPPED">Shipped</option>
           <option value="DELIVERED">Delivered</option>
         </select>
-        <button type="submit">{editOrder ? "Update" : "Add"} Order</button>
-        {editOrder && <button onClick={() => setEditOrder(null)}>Cancel Edit</button>}
+        <button type="submit">{"Add"} Order</button>
       </form>
-
       <table>
         <thead>
           <tr>
@@ -133,10 +113,19 @@ const Order = () => {
               <td>{order.OrderID}</td>
               <td>{order.CustomerFirstName}</td>
               <td>{order.CustomerLastName}</td>
-              <td>{order.Date.split('T')[0]}</td>
-              <td>{order.OrderStatus}</td>
+              <td>{order.Date}</td>
               <td>
-                  <button onClick={() => setEditOrder(order)}>Edit</button>
+                <select
+                  value={order.OrderStatus}
+                  onChange={e => updateStatus(order.OrderID, e.target.value)}
+                >
+                  <option value="ORDERED">Ordered</option>
+                  <option value="PAID">Paid</option>
+                  <option value="SHIPPED">Shipped</option>
+                  <option value="DELIVERED">Delivered</option>
+                </select>
+              </td>
+              <td>
                   <button onClick={() => deleteOrder(order.OrderID)}>Delete</button>
               </td>
             </tr>
